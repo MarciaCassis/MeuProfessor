@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "907850810381",
+    "firebase_url": "https://meu-professor-8ae91.firebaseio.com",
+    "project_id": "meu-professor-8ae91",
+    "storage_bucket": "meu-professor-8ae91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907850810381:android:18377e9703dda66d",
+        "android_client_info": {
+          "package_name": "com.marciacassis.meuprofessor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907850810381-86eqejpcg2ok7v7pgmrmioeau5sndekd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marciacassis.meuprofessor",
+            "certificate_hash": "ABF8B93530BFE194C1276D0FD2E71CF91A6EBEEF"
+          }
+        },
+        {
+          "client_id": "907850810381-dbja2gjf1ti4qkqbbjgtpm1bv9i424a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marciacassis.meuprofessor",
+            "certificate_hash": "568FA9FB3F1F4C95FFEA4AC89462536E94F82DE5"
+          }
+        },
+        {
+          "client_id": "907850810381-ileu825lfh5p00terl56hmc7jakg7h34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu1vshVMMoHxXLKi2KKlcXEiKQoBTLEOY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907850810381-ileu825lfh5p00terl56hmc7jakg7h34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
